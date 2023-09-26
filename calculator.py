@@ -9,4 +9,7 @@ num2 = 3
 
 function sumar()
     print(num1 + num2)
-    
+
+function resta()
+    print(num2 - num1)
+
