@@ -12,4 +12,8 @@ function sumar()
 
 function resta()
     print(num2 - num1)
+    
+function multiplicacion()
+    print(num1 * num2)
 
+print("Fin de la calculadora :)")
