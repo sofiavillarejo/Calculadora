@@ -7,6 +7,16 @@ print("Calculadora")
 num1 = 2
 num2 = 3
 
-function sumar()
+function sumar
     print(num1 + num2)
+
+function resta()
+    print(num2 - num1)
     
+function multiplicacion()
+    print(num1 * num2)
+
+function dividir()
+    print(num1 / num2)
+
+print("Fin de la calculadora :)")
